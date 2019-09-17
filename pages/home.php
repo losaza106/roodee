@@ -40,8 +40,8 @@
                 <div class="card" style="border: 1px solid #ccc; padding: 15px;">
                     <img width="100%" height="178" src="https://wp-media.petersons.com/blog/wp-content/uploads/2018/01/10124447/codes-coding-computer-577585.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title" style="margin-bottom: .75rem;">ComSci Quiz</h5>
-                        <p class="card-text">คำถามเกี่ยวกับวิทยาการคอมเบื้องต้น</p>
+                        <h5 class="card-title" style="margin-bottom: .75rem;">Com Quiz</h5>
+                        <p class="card-text">คำถามเกี่ยวกับคอมเบื้องต้น</p>
                         <a href="?p=quiz&id=3" class="btn btn-primary btn-block">Go!</a>
                     </div>
                 </div>
@@ -53,17 +53,17 @@
     </div> <!-- /.container -->
 </section>
 
-<section class="dark-content portfolio">
+<!-- <section class="dark-content portfolio">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="section-header">
                     <h2 class="section-title">Recommend WebSite</h2>
                     <p class="section-desc">แนะนำเว็บไซต์ฝึกเขียนโปรแกรม</p>
-                </div> <!-- /.section-header -->
-            </div> <!-- /.col-md-12 -->
-        </div> <!-- /.row -->
-    </div> <!-- /.container -->
+                </div>
+            </div>
+        </div>
+    </div>
     
     <div id="portfolio-carousel" class="portfolio-carousel portfolio-holder">
         <div class="item">
@@ -83,7 +83,7 @@
                 </div>
                 <img src="images/includes/project1.jpg" width="600" height="450" alt="CodeKak">
             </div>
-        </div> <!-- /.item -->
+        </div>
         <div class="item">
             <div class="thumb-post">
                 <div class="overlay">
@@ -101,7 +101,7 @@
                 </div>
                 <img src="images/includes/project2.jpg" alt="w3schools">
             </div>
-        </div> <!-- /.item -->
+        </div>
         <div class="item">
             <div class="thumb-post">
                 <div class="overlay">
@@ -119,7 +119,7 @@
                 </div>
                 <img src="images/includes/project3.jpg" alt="Code Combat">
             </div>
-        </div> <!-- /.item -->
+        </div>
         <div class="item">
             <div class="thumb-post">
                 <div class="overlay">
@@ -137,7 +137,7 @@
                 </div>
                 <img src="images/includes/project4.jpg" alt="CodingGame">
             </div>
-        </div> <!-- /.item -->
+        </div> 
         <div class="item">
             <div class="thumb-post">
                 <div class="overlay">
@@ -155,12 +155,12 @@
                 </div>
                 <img src="images/includes/project5.jpg" alt="Codemonkey">
             </div>
-        </div> <!-- /.item -->
+        </div>
 
-    </div> <!-- /#owl-demo -->
-</section> <!-- /.portfolio-holder -->
+    </div>
+</section> -->
 
-<section class="testimonials-widget">
+<section class="testimonials-widget" style="margin-top:40px;">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -189,17 +189,17 @@
     </div> <!-- /.container -->
 </section> <!-- /.testimonials-widget -->
 
-<section class="light-content our-team">
+<!-- <section class="light-content our-team">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="section-header">
                     <h2 class="section-title">My Team</h2>
                     <p class="section-desc">ComSci 1/3</p>
-                </div> <!-- /.section-header -->
-            </div> <!-- /.col-md-12 -->
-        </div> <!-- /.row -->
-    </div> <!-- /.container -->
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="team-members">
         <div class="container">
             <div class="row">
@@ -214,8 +214,8 @@
                             <h4 class="member-name">Prayut Chan O Cha</h4>
                             <p>Duis vitae consequat neque. Nulla pharetra eleifend nulla. </p>
                         </div>
-                    </div> <!-- /.team-member -->
-                </div> <!-- /.col-md-4 -->
+                    </div>
+                </div>
 
                 <div class="col-md-4 col-sm-4">
                     <div class="team-member">
@@ -227,8 +227,8 @@
                             <h4 class="member-name">Prayut Chan O Cha</h4>
                             <p>Duis vitae consequat neque. Nulla pharetra eleifend nulla. </p>
                         </div>
-                    </div> <!-- /.team-member -->
-                </div> <!-- /.col-md-4 -->
+                    </div>
+                </div>
 
                 <div class="col-md-4 col-sm-4">
                     <div class="team-member">
@@ -240,10 +240,10 @@
                             <h4 class="member-name">Prayut Chan O Cha</h4>
                             <p>Duis vitae consequat neque. Nulla pharetra eleifend nulla. </p>
                         </div>
-                    </div> <!-- /.team-member -->
-                </div> <!-- /.col-md-4 -->
+                    </div>
+                </div>
 
-            </div> <!-- /.row -->
-        </div> <!-- /.container -->
-    </div> <!-- /.team-members -->
-</section> <!-- /.our-team -->
+            </div>
+        </div>
+    </div>
+</section> -->

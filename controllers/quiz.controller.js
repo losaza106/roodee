@@ -20,6 +20,7 @@ $(document).ready(function(){
                 element.classList.remove('animated', 'fadeOutLeftBig')
                 $('#Quiz_Name').hide();
                 $('#Quiz_Blog').show();
+                goToByScroll('Show_Name_User');
             })
         }
     });
@@ -85,3 +86,12 @@ $(document).ready(function(){
         })
     });
 });
+
+function goToByScroll(id) {
+    // Remove "link" from the ID
+    id = id.replace("link", "");
+    // Scroll
+    $('html,body').animate({
+        scrollTop: $("#" + id).offset().top
+    }, 'slow');
+}

@@ -5,7 +5,7 @@
             	<ul>
             		<li><a href="?p=quiz&id=1">C Quiz</a></li>
             		<li><a href="?p=quiz&id=2">HTML Quiz</a></li>
-            		<li><a href="?p=quiz&id=3">ComSci Quiz</a></li>
+            		<li><a href="?p=quiz&id=3">Com Quiz</a></li>
             	</ul>
             </li>
             

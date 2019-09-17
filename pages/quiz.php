@@ -14,7 +14,7 @@
 <?php 
     echo "<style>#portfolioId {
         background-image: url(images/includes/".$data[0]['img_category'].");
-    }</style>";
+        }</style>";
 ?>
 
 
@@ -110,7 +110,7 @@
                     ?>
                     
                     <input type="hidden" name="id_category" value="<?=$data[0]['id_category']?>">
-                    <button style="margin-right:20px;margin-top:17px;padding:10px 80px;" id="btn_Submit" class="btn btn-success btn-lg pull-right"><i class="fa fa-check-circle-o" aria-hidden="true"></i> ส่งคำตอบ</button>
+                    <button style="margin-right:20px;margin-top:17px;padding:10px 80px;margin-bottom:25px;" id="btn_Submit" class="btn btn-success btn-lg pull-right"><i class="fa fa-check-circle-o" aria-hidden="true"></i> ส่งคำตอบ</button>
                 
             </div>
             <div class="col-md-8 blog-posts" id="Quiz_Name">
@@ -133,29 +133,29 @@
 						<h5 class="widget-title">Other Quiz!</h5>
 						<div class="last-post clearfix">
 							<div class="thumb pull-left">
-								<a href="#"><img width="80" height="80" src="images/includes/c_img80.jpg" alt=""></a>
+								<a href="?p=quiz&id=1"><img width="80" height="80" src="images/includes/c_img80.jpg" alt=""></a>
 							</div>
 							<div class="content">
 								<span>ภาษา C</span>
-								<h4><a href="#">C Quiz</a></h4>
+								<h4><a href="?p=quiz&id=1">C Quiz</a></h4>
 							</div>
 						</div> <!-- /.last-post -->
 						<div class="last-post clearfix">
 							<div class="thumb pull-left">
-								<a href="#"><img src="images/includes/html_img80.jpg" alt=""></a>
+								<a href="?p=quiz&id=2"><img src="images/includes/html_img80.jpg" alt=""></a>
 							</div>
 							<div class="content">
 								<span>ภาษา HTML</span>
-								<h4><a href="#">HTML Quiz</a></h4>
+								<h4><a href="?p=quiz&id=2">HTML Quiz</a></h4>
 							</div>
 						</div> <!-- /.last-post -->
 						<div class="last-post clearfix">
 							<div class="thumb pull-left">
-								<a href="#"><img src="images/includes/comsci_img80.jpg" alt=""></a>
+								<a href="?p=quiz&id=3"><img src="images/includes/comsci_img80.jpg" alt=""></a>
 							</div>
 							<div class="content">
 								<span>วิทยาการคอมเบื้องต้น</span>
-								<h4><a href="#">ComSci Quiz</a></h4>
+								<h4><a href="?p=quiz&id=3">Com Quiz</a></h4>
 							</div>
 						</div> <!-- /.last-post -->
 					</div> <!-- /.sidebar-widget -->

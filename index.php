@@ -22,8 +22,8 @@
 	<link rel="stylesheet" href="css/blue-scheme.css">
 	<link rel="stylesheet" href="css/custom-style.css">
 	<link rel="stylesheet" href="css/animate.css">
-	<script src="node_modules/sweetalert2/dist/sweetalert2.min.js"></script>
-	<link rel="stylesheet" href="node_modules/sweetalert2/dist/sweetalert2.min.css">
+	<script src="js/sweetalert2.min.js"></script>
+	<link rel="stylesheet" href="css/sweetalert2.min.css">
 	
 	<!-- JavaScripts -->
 	<script src="js/jquery-1.10.2.min.js"></script>
